@@ -6,3 +6,6 @@ IP Ho Man
 Wu Fan, CHU Long Siu Andy
 # Topic
 Student mark management.
+
+#TASK2
+New data structure - graph
