@@ -12,3 +12,8 @@ New data structure - graph
 Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph. More formally a Graph is composed of a set of vertices( V ) and a set of edges( E ). The graph is denoted by G(V, E).
 
 We are learning about how data structures works and how can it improve in our future programming. We find out that Graph is a powerful data structure. It can make the data become a grid form which can use on a little data and show a more user-friendly page for user.
+
+New algorithm - Heap Sort
+Heap Sort is a comparison-based sorting algorithm that utilizes a binary heap data structure. The binary heap is an implicit data structure visualized as a complete binary tree where each array element represents a node, and the parent-child relationships are defined by their index positions in the array. More formally, the algorithm organizes the unsorted elements into a Max-Heap structure, where every parent node contains a value greater than or equal to its child nodes.
+
+We are learning how different algorithms affect performance in real programs. Heap Sort is considered reliable because its running time stays at O(n \log n) in best, average, and worst cases, rather than sometimes degrading to O(n^2) like Quick Sort can. It also uses only O(1) extra memory, which makes it a good option when you want efficiency without needing additional storage.
