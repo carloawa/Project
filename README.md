@@ -47,7 +47,7 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing
 
 # TASK2
-## Data Structure
+## :pencil2: Data Structure
 ### Graph
   Graph is a non-linear data structure that consistis of vertices (nodes) and edges. There are vertex, also called a node and an edge. A node is a point or an object in the Graph and an edge is used to connect two vertices with each other. Graph is not the same with other data structures such as Arrays or Linked List, Graph is allows us to have different paths to get from one vertex to another. Also Graph can be divided into directed and undirected graphs. The undirected graph means edges do not have direction (A is connecting to B , B will be also connect to A) an the direct graph means edges have direction (A is connecting to B but B may not connecting to A). The undirected graph is mostly using on normal cases. Normally, graph is denoted by G(V,E). V means a set of vertices and E means a set of edges.
 
