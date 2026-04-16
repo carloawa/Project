@@ -2,7 +2,7 @@
 Group project of Group 113 for 2090SEF<br>
   Leader | ( IP Ho Man 13871353 )<br>
   Member1 | ( WU Fan 13873280 )<br>
-  Member2 | ( CHU Long Siu Andy )
+  Member2 | ( CHU Long Siu Andy 13875014)
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
