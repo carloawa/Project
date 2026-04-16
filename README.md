@@ -5,7 +5,7 @@
 
 ## Division of work
 &#9632; Ip Ho Man - Task2 Data Structure coding + Data Structure report + Data Structure Introduction Video + README<br>
-&#9632; Wu Fan - Task1 coding + Task1 report + Task1 Introduction Video README<br>
+&#9632; Wu Fan - Task1 coding + Task1 report + Task1 Introduction Video + README<br>
 &#9632; Chu Long Siu Andy - Task2 Algorithm coding + Algoithm report + Algoithm Introduction Video
 
 # Project Overview
