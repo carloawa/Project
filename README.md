@@ -47,11 +47,11 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing
 
 # TASK2
-## :pencil2: Data Structure
+## Data Structure
 ### Graph
   Graph is a non-linear data structure that consistis of vertices (nodes) and edges. There are vertex, also called a node and an edge. A node is a point or an object in the Graph and an edge is used to connect two vertices with each other. Graph is not the same with other data structures such as Arrays or Linked List, Graph is allows us to have different paths to get from one vertex to another. Also Graph can be divided into directed and undirected graphs. The undirected graph means edges do not have direction (A is connecting to B , B will be also connect to A) an the direct graph means edges have direction (A is connecting to B but B may not connecting to A). The undirected graph is mostly using on normal cases. Normally, graph is denoted by G(V,E). V means a set of vertices and E means a set of edges.
 
-## :pencil2: Algorithm
+## Algorithm
 ### Heap Sort
 
   Heap Sort is a comparison-based sorting algorithm that utilizes a binary heap data structure. The binary heap is an implicit data structure visualized as a complete binary tree where each array element represents a node, and the parent-child relationships are defined by their index positions in the array. More formally, the algorithm organizes the unsorted elements into a Max-Heap structure, where every parent node contains a value greater than or equal to its child nodes.
