@@ -10,11 +10,10 @@ Group project of Group 113 for 2090SEF<br>
   - :pushpin: [Recommendation](#recommendation)
   - :rocket: [Functions](#function)
   - :gear: [How to use](#how-to-use)
-  - :link: [Link for Task 1 videos](#task1-videos)
 - [TASK2 - Self-study](#task2)
   - :pencil2: [Data Structure](#data-structure)
   - :pencil2: [Algorithm](#algorithm)
-  - :link: [Link for Task 2 videos](#task2-videos)
+- :link: [Link for videos](#task-videos)
 
 # TASK1
 ## Project Introduction
@@ -43,9 +42,6 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 &#9632; Step 2 - generate a JSON file<br>
 &#9632; Step 3 - check the JSON file through folder
 
-## Task1 Videos
-[Task1 Videos](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)
-
 # TASK2
 ## Data Structure
 ### Graph
@@ -58,4 +54,5 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 
   We are learning how different algorithms affect performance in real programs. Heap Sort is considered reliable because its running time stays at O(n \log n) in best, average, and worst cases, rather than sometimes degrading to O(n^2) like Quick Sort can. It also uses only O(1) extra memory, which makes it a good option when you want efficiency without needing additional storage.
 
-## :link: Task2 Videos
+## Task Videos
+[Task1 Videos](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)
