@@ -6,25 +6,25 @@ Group project of Group 113 for 2090SEF<br>
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
-  - :house: [Project Introduction](#-project-introduction)
-  - :pushpin: [Recommendation](#-recommendation)
-  - :rocket: [Functions](#-function)
-  - :gear: [How to use](#-how-to-use)
-  - :link: [Link for Task 1 videos](#-task1-videos)
+  - :house: [Project Introduction](#project-introduction)
+  - :pushpin: [Recommendation](#recommendation)
+  - :rocket: [Functions](#function)
+  - :gear: [How to use](#how-to-use)
+  - :link: [Link for Task 1 videos](#task1-videos)
 - [TASK2 - Self-study](#task2)
-  - :pencil2: [Data Structure](#-data-structure)
+  - :pencil2: [Data Structure](#data-structure)
   - :pencil2: [Algorithm](#algorithm)
-  - :link: [Link for Task 2 videos](#-task2-videos)
+  - :link: [Link for Task 2 videos](#task2-videos)
 
 #TASK1
 ## Project Introduction
 This Student Mark Mangement is a system that made by python code. Our project provided a user-friendly page for user to save their works. This system will include some simple function like add/remove/save etc... Also it can create a JSON file and easily to print out all the data through it.
 
-## :pushpin: Recommendation
+## Recommendation
 &#9654; Version: Python 3.6 or higher is recommended.<br>
 &#9654; Main GUI Features: Click 1. 'Run Preset Test Cases' to load sample students.
 
-## : rocket: Functions
+## Functions
 - 'Run Preset Test Cases' (to load sample students)
 - 'Load Last Saved Data' to load data from students_data.json.
 - 'Save Current Data' to save current data to JSON.
@@ -33,7 +33,7 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 - 'Sort Students' to sort Students by different methods
 - 'Student Comprehensive Management Center' for advanced operations (course management, grade setting, etc.).
 
-## :gear: How to use
+## How to use
 ### Simple Run
 &#9632; Step 1 - run gui.py to run the programm<br>
 &#9632; Step 2 - choose the function you want<br>
@@ -43,11 +43,11 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 &#9632; Step 2 - generate a JSON file<br>
 &#9632; Step 3 - check the JSON file through folder
 
-## :link: Task1 Videos
+## Task1 Videos
 https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing
 
-# TASK2 (#task2)
-## :pencil2: Data Structure
+# TASK2
+## Data Structure
 ### Graph
   Graph is a non-linear data structure that consistis of vertices (nodes) and edges. There are vertex, also called a node and an edge. A node is a point or an object in the Graph and an edge is used to connect two vertices with each other. Graph is not the same with other data structures such as Arrays or Linked List, Graph is allows us to have different paths to get from one vertex to another. Also Graph can be divided into directed and undirected graphs. The undirected graph means edges do not have direction (A is connecting to B , B will be also connect to A) an the direct graph means edges have direction (A is connecting to B but B may not connecting to A). The undirected graph is mostly using on normal cases. Normally, graph is denoted by G(V,E). V means a set of vertices and E means a set of edges.
 
