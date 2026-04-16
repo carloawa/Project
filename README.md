@@ -16,7 +16,7 @@ Group project of Group 113 for 2090SEF<br>
   - :pencil2: [Algorithm](#algorithm)
   - :link: [Link for Task 2 videos](#task2-videos)
 
-#TASK1
+# TASK1
 ## Project Introduction
 This Student Mark Mangement is a system that made by python code. Our project provided a user-friendly page for user to save their works. This system will include some simple function like add/remove/save etc... Also it can create a JSON file and easily to print out all the data through it.
 
