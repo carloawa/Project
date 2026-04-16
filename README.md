@@ -6,25 +6,25 @@ Group project of Group 113 for 2090SEF<br>
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
-  - :house: [Project Introduction](#project-introduction)
-  - :pushpin: [Recommendation](#recommendation)
-  - :rocket: [Functions](#function)
+  - :house: [Project Introduction](#-project-introduction)
+  - :pushpin: [Recommendation](#-recommendation)
+  - :rocket: [Functions](#-function)
   - :gear: [How to use](#how-to-use)
   - :link: [Link for Task 1 videos](#task1-videos)
 - [TASK2 - Self-study](#task2)
   - :pencil2: [Data Structure](#data-structure)
-  - :pencil2: [Algorithm](#algorithm)
+  - :pencil2: [Algorithm](#-algorithm)
   - :link: [Link for Task 2 videos](#task2-videos)
 
 #TASK1
-## :house:Project Introduction
+## :house: Project Introduction
 This Student Mark Mangement is a system that made by python code. Our project provided a user-friendly page for user to save their works. This system will include some simple function like add/remove/save etc... Also it can create a JSON file and easily to print out all the data through it.
 
-## :pushpin:Recommendation
+## :pushpin: Recommendation
 &#9654; Version: Python 3.6 or higher is recommended.<br>
 &#9654; Main GUI Features: Click 1. 'Run Preset Test Cases' to load sample students.
 
-## :rocket:Functions
+## : rocket:Functions
 - 'Run Preset Test Cases' (to load sample students)
 - 'Load Last Saved Data' to load data from students_data.json.
 - 'Save Current Data' to save current data to JSON.
@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=shari
 ### Graph
   Graph is a non-linear data structure that consistis of vertices (nodes) and edges. There are vertex, also called a node and an edge. A node is a point or an object in the Graph and an edge is used to connect two vertices with each other. Graph is not the same with other data structures such as Arrays or Linked List, Graph is allows us to have different paths to get from one vertex to another. Also Graph can be divided into directed and undirected graphs. The undirected graph means edges do not have direction (A is connecting to B , B will be also connect to A) an the direct graph means edges have direction (A is connecting to B but B may not connecting to A). The undirected graph is mostly using on normal cases. Normally, graph is denoted by G(V,E). V means a set of vertices and E means a set of edges.
 
-## :pencil2:Algorithm
+## :pencil2: Algorithm
 ### Heap Sort
 
   Heap Sort is a comparison-based sorting algorithm that utilizes a binary heap data structure. The binary heap is an implicit data structure visualized as a complete binary tree where each array element represents a node, and the parent-child relationships are defined by their index positions in the array. More formally, the algorithm organizes the unsorted elements into a Max-Heap structure, where every parent node contains a value greater than or equal to its child nodes.
