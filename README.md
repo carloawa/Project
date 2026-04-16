@@ -59,5 +59,5 @@ This Student Mark Mangement is a system that made by python code. Our project pr
   We are learning how different algorithms affect performance in real programs. Heap Sort is considered reliable because its running time stays at O(n \log n) in best, average, and worst cases, rather than sometimes degrading to O(n^2) like Quick Sort can. It also uses only O(1) extra memory, which makes it a good option when you want efficiency without needing additional storage.
 
 ## Task Videos
-[Task1 Videos](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)<br>
-[Task2 Videos](https://drive.google.com/file/d/1l3kYhi3zfERajOFTZGEV-QvkQ2eKrgio/view?usp=sharing)
+[Task1 Video](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)<br>
+[Task2 Video](https://drive.google.com/file/d/1l3kYhi3zfERajOFTZGEV-QvkQ2eKrgio/view?usp=sharing)
