@@ -16,15 +16,15 @@ Group project of Group 113 for 2090SEF<br>
   - :pencil2: [Algorithm](#algorithm)
   - :link: [Link for Task 2 videos](#task2-videos)
 
-# TASK1 (#task1)
-## :house: Project Introduction {#project-introduction}
+#TASK1
+## :house:Project Introduction
 This Student Mark Mangement is a system that made by python code. Our project provided a user-friendly page for user to save their works. This system will include some simple function like add/remove/save etc... Also it can create a JSON file and easily to print out all the data through it.
 
-## :pushpin: Recommendation {#recommendation}
+## :pushpin:Recommendation
 &#9654; Version: Python 3.6 or higher is recommended.<br>
 &#9654; Main GUI Features: Click 1. 'Run Preset Test Cases' to load sample students.
 
-## :rocket: Functions {#function}
+## :rocket:Functions
 - 'Run Preset Test Cases' (to load sample students)
 - 'Load Last Saved Data' to load data from students_data.json.
 - 'Save Current Data' to save current data to JSON.
