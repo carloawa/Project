@@ -6,14 +6,14 @@ Group project of Group 113 for 2090SEF<br>
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
-  - :house: [Project Introduction](#-Project-introduction)
+  -  [:house: Project Introduction](#-Project-introduction)
   - :pushpin: [Recommendation](#-recommendation)
   - :rocket: [Functions](#-function)
   - :gear: [How to use](#-how-to-use)
   - :link: [Link for Task 1 videos](#-task1-videos)
 - [TASK2 - Self-study](#task2)
   - :pencil2: [Data Structure](#-data-structure)
-  - :pencil2: [Algorithm](##algorithm)
+  -  [:pencil2: Algorithm](##algorithm)
   - :link: [Link for Task 2 videos](#-task2-videos)
 
 #TASK1
