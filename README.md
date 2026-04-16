@@ -1,8 +1,12 @@
-# Basic Information
-Group project of Group 113 for 2090SEF<br>
+# Group project of Group 113 for 2090SEF
   Leader | ( IP Ho Man 13871353 )<br>
   Member1 | ( WU Fan 13873280 )<br>
   Member2 | ( CHU Long Siu Andy 13875014)
+
+## Division of work
+&#9632; Ip Ho Man - Task2 Data Structure coding + Data Structure report + README<br>
+&#9632; Wu Fan - Task1 coding + Task1 report + README<br>
+&#9632; Chu Long Siu Andy - Task2 Algorithm coding + Algoithm report
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
@@ -56,3 +60,4 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 
 ## Task Videos
 [Task1 Videos](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)
+[Task2 Videos]
