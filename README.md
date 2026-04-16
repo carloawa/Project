@@ -9,12 +9,12 @@ Group project of Group 113 for 2090SEF<br>
   - :house: [Project Introduction](#-project-introduction)
   - :pushpin: [Recommendation](#-recommendation)
   - :rocket: [Functions](#-function)
-  - :gear: [How to use](#how-to-use)
-  - :link: [Link for Task 1 videos](#task1-videos)
+  - :gear: [How to use](#-how-to-use)
+  - :link: [Link for Task 1 videos](#-task1-videos)
 - [TASK2 - Self-study](#task2)
-  - :pencil2: [Data Structure](#data-structure)
+  - :pencil2: [Data Structure](#-data-structure)
   - :pencil2: [Algorithm](#-algorithm)
-  - :link: [Link for Task 2 videos](#task2-videos)
+  - :link: [Link for Task 2 videos](#-task2-videos)
 
 #TASK1
 ## :house: Project Introduction
@@ -24,7 +24,7 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 &#9654; Version: Python 3.6 or higher is recommended.<br>
 &#9654; Main GUI Features: Click 1. 'Run Preset Test Cases' to load sample students.
 
-## : rocket:Functions
+## : rocket: Functions
 - 'Run Preset Test Cases' (to load sample students)
 - 'Load Last Saved Data' to load data from students_data.json.
 - 'Save Current Data' to save current data to JSON.
@@ -33,7 +33,7 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 - 'Sort Students' to sort Students by different methods
 - 'Student Comprehensive Management Center' for advanced operations (course management, grade setting, etc.).
 
-## :gear: How to use {#how-to-use}
+## :gear: How to use
 ### Simple Run
 &#9632; Step 1 - run gui.py to run the programm<br>
 &#9632; Step 2 - choose the function you want<br>
@@ -43,11 +43,11 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 &#9632; Step 2 - generate a JSON file<br>
 &#9632; Step 3 - check the JSON file through folder
 
-## :link: Task1 Videos {#task1-videos}
+## :link: Task1 Videos
 https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing
 
 # TASK2 (#task2)
-## :pencil2: Data Structure {#data-structure}
+## :pencil2: Data Structure
 ### Graph
   Graph is a non-linear data structure that consistis of vertices (nodes) and edges. There are vertex, also called a node and an edge. A node is a point or an object in the Graph and an edge is used to connect two vertices with each other. Graph is not the same with other data structures such as Arrays or Linked List, Graph is allows us to have different paths to get from one vertex to another. Also Graph can be divided into directed and undirected graphs. The undirected graph means edges do not have direction (A is connecting to B , B will be also connect to A) an the direct graph means edges have direction (A is connecting to B but B may not connecting to A). The undirected graph is mostly using on normal cases. Normally, graph is denoted by G(V,E). V means a set of vertices and E means a set of edges.
 
@@ -58,4 +58,4 @@ https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=shari
 
   We are learning how different algorithms affect performance in real programs. Heap Sort is considered reliable because its running time stays at O(n \log n) in best, average, and worst cases, rather than sometimes degrading to O(n^2) like Quick Sort can. It also uses only O(1) extra memory, which makes it a good option when you want efficiency without needing additional storage.
 
-## :link: Task2 Videos {#task2-videos}
+## :link: Task2 Videos
