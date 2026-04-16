@@ -4,9 +4,9 @@
   Member2 | ( CHU Long Siu Andy 13875014)
 
 ## Division of work
-&#9632; Ip Ho Man - Task2 Data Structure coding + Data Structure report + README<br>
-&#9632; Wu Fan - Task1 coding + Task1 report + README<br>
-&#9632; Chu Long Siu Andy - Task2 Algorithm coding + Algoithm report
+&#9632; Ip Ho Man - Task2 Data Structure coding + Data Structure report + Data Structure Introduction Video + README<br>
+&#9632; Wu Fan - Task1 coding + Task1 report + Task1 Introduction Video README<br>
+&#9632; Chu Long Siu Andy - Task2 Algorithm coding + Algoithm report + Algoithm Introduction Video
 
 # Project Overview
 - [TASK1 - Student Mark Mangement System](#task1)
@@ -60,4 +60,4 @@ This Student Mark Mangement is a system that made by python code. Our project pr
 
 ## Task Videos
 [Task1 Videos](https://drive.google.com/file/d/1SxB6Ty4jURAyGs_K-uUDXNjEXt4Y0wK_/view?usp=sharing)
-[Task2 Videos]
+[Task2 Videos](https://drive.google.com/file/d/1l3kYhi3zfERajOFTZGEV-QvkQ2eKrgio/view?usp=sharing)
